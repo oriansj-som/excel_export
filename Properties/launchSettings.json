@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Export_Excel": {
+      "commandName": "Project",
+      "commandLineArgs": "--database example.db --file foo.xlsx --table Agile_Teams,18,20,5 --table taco"
+    }
+  }
+}
